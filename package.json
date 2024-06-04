@@ -1,0 +1,22 @@
+{
+  "name": "desktop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+ 
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "runE2E":"npx cypress run --headed --config-file cypress.config.js --spec 'cypress/e2e/Tests/EndToEnd2.cy.js'",
+      "runAllTests":"npx cypress run --headed"
+  },
+  
+  "keywords": [],
+  "author": "MEB",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.10.0"
+  }
+}
+
+
+
