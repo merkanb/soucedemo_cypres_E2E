@@ -43,25 +43,7 @@ Custom arrangements provide video files and some screenshots in failure options.
 - Log out of the application again in a reusable way with .contains method.
 
 
-The folder structure for this Cypress project is as following:
 ![image](https://github.com/merkanb/soucedemo_cypres_E2E/assets/134849499/9689016c-629c-4230-b297-e84ab2258af2)
-![image](https://github.com/merkanb/soucedemo_cypres_E2E/assets/134849499/d0f8478c-1abc-40fd-8110-8861875fdeaa)
-
-   cypress
-   │
-   ├── e2e      
-   │    └── POM - Page Object Model - page.js files
-   │    └── Tests
-   │
-   ├── fixtures
-   │    └── example.json - Data Driven Test
-   │
-   ├── screenshots
-   │    
-   ├── support
-   │    └── commands.js - custom commands / utilities
-   │        
-   └── videos
 
 
 ## Installation & Running the Project
