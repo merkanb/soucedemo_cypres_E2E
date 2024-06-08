@@ -48,10 +48,10 @@ Custom arrangements provide video files and some screenshots in failure options.
 
 ## Installation & Running the Project
 
-To install Cypress, you need to have Node.js installed on your machine. Then, you can install Cypress via npm, use: npm install cypress 
-To open the Cypress Test Runner in headed mode, use:  npx cypress open
-To run the tests in headless mode, use:   npx cypress run
-To run specipic test, need to customize config.js specPattern value. 
+# To install Cypress, you need to have Node.js installed on your machine. Then, you can install Cypress via npm, use: npm install cypress 
+# To open the Cypress Test Runner in headed mode, use:  npx cypress open
+# To run the tests in headless mode, use:   npx cypress run
+# To run specipic test, need to customize config.js specPattern value. 
 
 
 
