@@ -6,8 +6,7 @@ Codes and Tests Prepared by:
 # QA Test Automation Engineer
 
 # merkanb@gmail.com   
-# www.linkedin.com    
-
+# https://github.com/merkanb/soucedemo_cypres_E2E
 This file provides a basic outline to help you get started with Cypress for E2E / End to End testing.
 
 ###  baseUrl:"https://www.saucedemo.com/",
