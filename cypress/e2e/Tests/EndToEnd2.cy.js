@@ -28,10 +28,10 @@ describe("E2E Test", () => {
         productPage.clickAddToCartBtn()
         //Navigate to the Products Page.
         // basePage.clickBurgerMenuAndNavigateBaseMenu() //this method go basePage WITHOUT parameter, we may use ↓↓↓ PARAMETER
+        // choose element by parameter with .contains method / with PARAMETER = "All Items" or "Logout" or other 2 menu
         basePage.navigateToBaseMenu('All Items')
         //Directly add the "Sauce Labs Bike Light" and "Sauce Labs Bolt T-Shirt" products to the cart.
-        // choose element by parameter with .contains method / with PARAMETER = "All Items" or "Logout" or other 2 menu
-        productPage.addProductToCartDirectly("Sauce Labs Bike Light")   // with PARAMETER product choosing and add CART
+        productPage.addProductToCartDirectly("Sauce Labs Bike Light")   // with PARAMETER product choosing and adding to CART
         productPage.addProductToCartDirectly("Sauce Labs Bolt T-Shirt")
         //Return to the Cart Page.
         basePage.navigateToShoppingCart()
@@ -50,6 +50,7 @@ describe("E2E Test", () => {
         //Click on the finish button.
         overviewPage.clickFinishBtn()
         //Log out of the application.
+        // choose element by parameter with .contains method / with PARAMETER = "All Items" or "Logout" or other 2 menu
         basePage.navigateToBaseMenu("Logout")
 
     })
