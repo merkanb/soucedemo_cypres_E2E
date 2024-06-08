@@ -11,7 +11,7 @@
   },
   
   "keywords": [],
-  "author": "MEB",
+  "author": "M. Erkan BAS",
   "license": "ISC",
   "dependencies": {
     "cypress": "^13.10.0"

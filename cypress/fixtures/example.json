@@ -3,8 +3,8 @@
   "email": "hello@cypress.io",
   "body": "Fixtures are a great way to mock data for responses to routes",
   "info": {
-    "first_name": "Jhon",
-    "last_name": "Doe",
-    "zip_code": "06542"
+    "first_name": "Erkan",
+    "last_name": "Bas",
+    "zip_code": "69007"
   }
 }
