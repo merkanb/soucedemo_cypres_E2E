@@ -44,6 +44,8 @@ Custom arrangements provide video files and some screenshots in failure options.
 
 
 The folder structure for this Cypress project is as following:
+![image](https://github.com/merkanb/soucedemo_cypres_E2E/assets/134849499/9689016c-629c-4230-b297-e84ab2258af2)
+![image](https://github.com/merkanb/soucedemo_cypres_E2E/assets/134849499/d0f8478c-1abc-40fd-8110-8861875fdeaa)
 
    cypress
    │
