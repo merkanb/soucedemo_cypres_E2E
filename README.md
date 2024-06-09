@@ -22,7 +22,7 @@ Customization cypress behavior is available through the cypress.config.js file.
 }
 
 Tests are written in JavaScript. Aiming testing www.saucedemo.com Web Application with Cypress with an approach of End to End Testing. 
-Used Page Object Model pages, predefined locators and methods in order to achieve high usability and also maintainability. 
+Used Page Object Model pages, predefined locators and methods in order to achieve high reusability and also maintainability. 
 In case of need it is available to use external data to Test data files via fixtures package example.json file with .json format. 
 Custom arrangements provide video files and some screenshots in failure options. 
 
